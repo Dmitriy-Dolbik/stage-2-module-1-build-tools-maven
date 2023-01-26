@@ -12,6 +12,7 @@
 
     <artifactId>demo</artifactId>
     <dependencies>
+        <!--Add our module "utils" as a dependency-->
         <dependency>
             <groupId>com.epam</groupId>
             <artifactId>utils</artifactId>
